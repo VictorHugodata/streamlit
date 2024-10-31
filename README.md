@@ -1,5 +1,7 @@
-# Mostrando funcionalidades do streamlit
 
+[Uploading streamlit-app_7-2024-10-31-10-10-15.webm…]()
+
+# Mostrando funcionalidades do streamlit
 Neste projeto, mostro algumas funcionalidades dinamicas do streamlit 
 
 ## Descrição do projeto
