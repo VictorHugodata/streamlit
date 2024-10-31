@@ -1,5 +1,6 @@
 
-[Uploading streamlit-app_7-2024-10-31-10-10-15.webm…]()
+[streamlit-app_7-2024-10-31-10-10-15.webm](https://github.com/user-attachments/assets/a34331e2-28be-4e6f-8f38-172bdcf68f94)
+
 
 # Mostrando funcionalidades do streamlit
 Neste projeto, mostro algumas funcionalidades dinamicas do streamlit 
